@@ -51,4 +51,4 @@ else:
          (choice_of_user == 2 and choice_of_computer == 1):
         print("You win!")
     else:
-        print("You lose!")
+        print("You lose! ")

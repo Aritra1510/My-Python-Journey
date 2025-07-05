@@ -49,3 +49,4 @@ while should_continue:
         print("Goodbye!")
     elif result != "yes":
         print("You typed wrong option. Please type 'yes' or 'no'.")
+        

@@ -11,4 +11,3 @@ def calculate_love_score(name1, name2):
     print(int(str(score1) + str(score2)))
 
 calculate_love_score("Romeo", "Juliet")
-
